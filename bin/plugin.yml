@@ -1,0 +1,7 @@
+main: rxs.dedouwe.mcplugins.blockvalley.Blockvalley
+name: blockvalley
+version: 1.0.0
+author: de_douwe
+
+commands:
+        
