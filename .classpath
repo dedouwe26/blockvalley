@@ -6,6 +6,8 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="D:/buildtools/Spigot/Spigot-API/target/spigot-api-1.18.1-R0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/UsedProducts/Desktop/buildtools/Spigot/Spigot-API/target/spigot-api-1.18.2-R0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/UsedProducts/Desktop/plugins/blockvalley/libs/javax.jar"/>
+	<classpathentry kind="lib" path="C:/Users/UsedProducts/Desktop/plugins/blockvalley/libs/json-simple-1.1.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
