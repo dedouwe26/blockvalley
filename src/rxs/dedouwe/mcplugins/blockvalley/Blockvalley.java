@@ -16,6 +16,7 @@ public class Blockvalley extends JavaPlugin {
 		Api.makePw();
 		Rankings.setList(Config.loadFromFiles(new File(this.getDataFolder().getPath())));
         getServer().getPluginManager().registerEvents(new Events(), this);
+        this.getCommand("getapipw").setExecutor(new Api());
 	}
 	
     @Override
